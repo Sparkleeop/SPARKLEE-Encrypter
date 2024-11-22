@@ -8,7 +8,6 @@ A Python-based encryption and decryption tool. This program allows you to secure
 - **Encrypt Strings**: Transform any text into an encrypted format using randomly assigned special characters.
 - **Decrypt Strings**: Easily decrypt encrypted text using stored encryption maps.
 - **ASCII Art Integration**:
-  - Display cool ASCII art logos.
   - Dynamically generate ASCII art for user input.
 - **Secure Map Storage**: Each encryption process generates a unique encryption map stored in a `.pkl` file for secure and later decryption.
 
