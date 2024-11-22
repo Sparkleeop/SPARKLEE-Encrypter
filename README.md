@@ -1,4 +1,4 @@
-# SPARKLEE Encryptor
+# ⭐ SPARKLEE Encryptor
 
 # 🔐 Encryptor & Decryptor
 
