@@ -1,3 +1,5 @@
+# SPARKLEE Encryptor
+
 # 🔐 Encryptor & Decryptor
 
 A Python-based encryption and decryption tool. This program allows you to securely encrypt and decrypt text strings using a unique character map while adding a fun visual touch with ASCII art.
